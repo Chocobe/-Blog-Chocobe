@@ -5,7 +5,7 @@ cover: assets/images/tagImage/bg_javascript.png
 hideCover: True
 navigation: True
 title: #02 Javascript 개발환경 만들기
-date: 2021-05-09 09:31:00
+date: 2021-05-09 09:32:00
 tags: [javascript]
 class: post-template
 subclass: 'post'

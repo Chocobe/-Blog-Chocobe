@@ -5,7 +5,7 @@ cover: assets/images/tagImage/bg_webpack.png
 hideCover: True
 navigation: True
 title: #02> Webpack 개발환경 만들기
-date: 2021-05-08 15:31:00
+date: 2021-05-08 16:20:00
 tags: [webpack]
 class: post-template
 subclass: 'post'
