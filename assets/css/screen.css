@@ -809,6 +809,7 @@ Usage (In Ghost editor):
     padding: 0 5px 2px;
     font-size: 0.8em;
     line-height: 1em;
+    font-family: Hack;
     font-weight: 400!important;
     background: var(--whitegrey);
     border-radius: 3px;
