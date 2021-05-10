@@ -57,7 +57,7 @@ favicon: assets/images/favicon.png
 production_url: https://chocobe.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://github.com/chocobe/GitHubPageMaker/
+source_url: https://github.com/chocobe/chocobe.github.io/
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
@@ -106,7 +106,7 @@ safe: False
 lsi: False
 
 username: chocobe
-repo: chocobe.github.io
+repo: https://github.com/chocobe/chocobe.github.io
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
