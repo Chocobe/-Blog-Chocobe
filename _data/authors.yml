@@ -1,0 +1,10 @@
+chocobe:
+  username: Young Woo
+  name: Young Woo Kim
+  url_full: http://github.com/Chocobe
+  url: chocobe.github.io
+  bio: Vue와 Typescript를 좋아합니다
+  picture: assets/images/chocobe/chocobe.png
+  facebook:
+  twitter:
+  cover: False
