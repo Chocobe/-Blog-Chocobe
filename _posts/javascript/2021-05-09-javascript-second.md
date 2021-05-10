@@ -4,7 +4,7 @@ current: post
 cover: assets/images/tagImage/bg_javascript.png
 hideCover: True
 navigation: True
-title: #01 Javascript 개발환경 만들기
+title: #02 Javascript 개발환경 만들기
 date: 2021-05-09 09:31:00
 tags: [javascript]
 class: post-template
@@ -14,7 +14,7 @@ author: chocobe
 
 {% include content-list-javascript.html %}
 
-## #01 Javascript 개발환경 만들기
+## #02 Javascript 개발환경 만들기
 
 첫번째 포스팅 입니다.
 
