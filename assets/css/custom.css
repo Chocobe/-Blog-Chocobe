@@ -28,13 +28,13 @@ ol.mylist li:hover {
 
 /* 링크뒤쪽에 FontAwesome표현을 위한 custom CSS */
 .post-full-content a[target="_blank"]::after {
-  content: '\f08e';
+  content: "\f35d";
   display: inline-block;
   margin: 0 2px 0 4px;
   line-height: 1;
-  font-family: "FontAwesome";
-  font-size: 2rem;
-  font-weight: normal;
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.5rem;
+  font-weight: 900;
   font-style: normal;
 }
 
@@ -91,9 +91,9 @@ ol.table-of-contents-list li:before {
   display: inline-block;
   margin: 0 2px 0 4px;
   line-height: 1;
-  font-family: "FontAwesome";
-  font-size: 2rem;
-  font-weight: normal;
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.5rem;
+  font-weight: 900;
   font-style: normal;
   vertical-align: middle;
   padding: 5px 5px 6px 0px;
@@ -157,9 +157,9 @@ strong.post_introduction:before {
   display: inline-block;
   margin: 0 2px 0 4px;
   line-height: 1;
-  font-family: "FontAwesome";
+  font-family: "Font Awesome 5 Free";
   font-size: 3rem;
-  font-weight: normal;
+  font-weight: 900;
   font-style: normal;
   vertical-align: middle;
   padding: 0px 5px 6px 0px;
@@ -172,9 +172,9 @@ strong.subtitle_fontAwesome:before {
   display: inline-block;
   margin: 0 2px 0 4px;
   line-height: 1;
-  font-family: "FontAwesome";
+  font-family: "Font Awesome 5 Free";
   font-size: 5rem;
-  font-weight: normal;
+  font-weight: 900;
   font-style: normal;
   vertical-align: middle;
   padding: 0px 5px 6px 0px;
@@ -187,9 +187,9 @@ strong.subtitle2_fontAwesome:before {
   display: inline-block;
   margin: 0 2px 0 4px;
   line-height: 1;
-  font-family: "FontAwesome";
+  font-family: "Font Awesome 5 Free";
   font-size: 3rem;
-  font-weight: normal;
+  font-weight: 900;
   font-style: normal;
   vertical-align: middle;
   padding: 0px 5px 6px 0px;
@@ -254,9 +254,9 @@ ul.lecture-reference li:before {
   display: inline-block;
   margin: 0 2px 0 4px;
   line-height: 1;
-  font-family: "FontAwesome";
-  font-size: 2rem;
-  font-weight: normal;
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.5rem;
+  font-weight: 900;
   font-style: normal;
   vertical-align: middle;
   padding: 5px 5px 6px 0px;
@@ -451,7 +451,8 @@ ul.lecture-reference li:before {
   position: absolute;
   top: 0;
   line-height: 50px;
-  font-family: "fontawesome";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
   color: #fff;
   speak: none;
   -webkit-font-smoothing: antialiased;
