@@ -4,7 +4,7 @@ current: post
 cover: assets/images/tagImage/bg_webpack.png
 hideCover: True
 navigation: True
-title: #01> Webpack 개발환경 만들기
+title: #02> Webpack 개발환경 만들기
 date: 2021-05-08 15:31:00
 tags: [webpack]
 class: post-template
@@ -14,7 +14,7 @@ author: chocobe
 
 {% include content-list-webpack.html %}
 
-## #01> Webpack 개발환경 만들기
+## #02> Webpack 개발환경 만들기
 
 세번째 포스팅 입니다.
 
@@ -31,7 +31,9 @@ module.exports = {
   output: {
     filename: "app.bundle.js",
     path: path.resolve(__dirname, "dist")
-  }
+  },
+  
+  exclude: ["node_modules", "dist"]
 };
 ```
 
