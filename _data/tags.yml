@@ -13,6 +13,7 @@ typescript:
   description: Typescript란 무엇인지, 어떻게 사용하는지 알아봅니다.
   cover: assets/images/blog-cover.jpg
 
-github page:
-  name: github page
+github-page:
+  name: github-page
   description: Github Page를 사용한 블로그 만들기
+  cover: assets/images/blog-cover.jpg
