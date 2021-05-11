@@ -1,17 +1,18 @@
 javascript:
   name: javascript
-  description: Javascript에 대한 글입니다
+  description: Javascript 기본에서 좀 더 깊어지기 위한 공간입니다.
   cover: assets/images/blog-cover.jpg
-  # cover: assets/images/tagImage/bg_javascript.png
 
 webpack:
   name: webpack
-  description: Webpack 기본설정과 Plugin 연동방법에 대한 정리 입니다.
+  description: Webpack 기본설정과 Plugins 연동방법에 대해 알아봅니다.
   cover: assets/images/blog-cover.jpg
-  #cover: assets/images/tagImage/bg_webpack.png
 
 typescript:
   name: typescript
-  description: Typescript 기본 문법에 대한 정리 입니다.
+  description: Typescript란 무엇인지, 어떻게 사용하는지 알아봅니다.
   cover: assets/images/blog-cover.jpg
-  # cover: assets/images/tagImage/bg_typescript.png
+
+github page:
+  name: github page
+  description: Github Page를 사용한 블로그 만들기
