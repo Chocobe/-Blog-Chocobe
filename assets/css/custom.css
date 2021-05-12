@@ -693,3 +693,8 @@ img.shadow {
   border-radius: 5px;
   box-shadow: 2px 2px 8px 5px #c9c9c9;
 }
+
+/* <pre> 스타일 */
+.highlighter-rouge {
+  width: 100%;
+}
