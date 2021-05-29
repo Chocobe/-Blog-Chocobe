@@ -1,7 +1,7 @@
 vue:
-  name: vue,
+  name: vue
   description: Vue 프레임워크에 대한 포스팅 입니다.
-  cover:
+  cover: assets/images/blog-cover.jpg
 
 #javascript:
 #  name: javascript
