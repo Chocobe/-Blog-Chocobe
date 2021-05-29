@@ -1,3 +1,18 @@
+## 로컬서버 실행
+```bash
+$ bundler exec jekyll serve
+```
+
+* 로컬서버 실행 시, ``_config.yml``의 ``destination``에 작성한 경로에 자동으로 Build 파일이 생성 된다.
+
+* CSS 수정 시, ``gulp`` 빌드를 해야 프로젝트에 적용 된다.
+
+```bash
+$ gulp css
+```
+
+<br/>
+
 ## 사용한 이미지 목록
 |용도|이미지경로|사용처|
 |---|---|---|
@@ -7,6 +22,8 @@
 |계정 이미지|assets/images/chocobe/chocobe.png|_data/authors.yml|
 |-|-|-|
 |Javascript 배너|assets/images/tagImage/bg_javascript.png|
+
+<br/>
 
 ## Jasper2
 

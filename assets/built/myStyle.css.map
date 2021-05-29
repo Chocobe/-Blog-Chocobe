@@ -1,0 +1,1 @@
+{"version":3,"sources":["myStyle.css"],"names":[],"mappings":"AAGA,yBACE,eAAiB,CAClB","file":"myStyle.css","sourcesContent":["@charset \"UTF-8\";\n\n/* font-weight: 900 */\n.myStyle-font-weight-900 {\n  font-weight: 900;\n}"]}
