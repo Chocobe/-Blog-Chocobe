@@ -8,11 +8,11 @@ vue:
 #  description: Javascript 기본에서 좀 더 깊어지기 위한 공간입니다.
 #  cover: assets/images/blog-cover.jpg
 
-#webpack:
-#  name: webpack
-#  description: Webpack 기본설정과 Plugins 연동방법에 대해 알아봅니다.
-#  cover: assets/images/blog-cover.jpg
-#
+webpack:
+  name: webpack
+  description: Webpack 기본설정과 Plugins 연동방법에 대해 알아봅니다.
+  cover: assets/images/blog-cover.jpg
+
 #typescript:
 #  name: typescript
 #  description: Typescript란 무엇인지, 어떻게 사용하는지 알아봅니다.
